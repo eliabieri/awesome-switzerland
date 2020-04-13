@@ -11,6 +11,8 @@ A curated list of awesome Switzerland 🇨🇭 specific Github projects
   - [Bike Sharing](#bike-sharing)
   - [Environmental Data](#envirnonmental-data)
   - [Maps](#maps)
+  - [Finance](#finance)
+- [Resources](#resources)
 
 ## Projects
 
@@ -40,6 +42,18 @@ _Utilities and libraries to access environmental data_
 _Utilities and Libraries around swiss maps and mapping services_
 
 - [swiss-maps](https://github.com/interactivethings/swiss-maps) - Generate TopoJSON from publicly available (but difficult to access) swisstopo geodata.
+
+### Finance
+
+_Utilities and Libraries around Switzerland specific billing, accounting, ...)_
+
+- [php-swiss-qr-bill](https://github.com/sprain/php-swiss-qr-bill) - A PHP library to create Swiss QR Bill payment parts (QR-Rechnung)
+
+## Resources
+
+_Resources, lists, documentation_
+
+- [swiss-charities](https://github.com/schoolofdata-ch/swiss-charities) - List of Swiss charitable organizations
 
 ## Contributing
 
