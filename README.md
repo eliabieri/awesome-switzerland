@@ -36,6 +36,7 @@ _Utilities and libraries to access data of swiss bike sharing companies_
 _Utilities and libraries to access environmental data_
 
 - [pyaare](https://github.com/eliabieri/pyaare) - A Python wrapper around the aare.guru API.
+- [aaregurucli](https://github.com/gexclaude/aaregurucli) - CLI for the aare.guru API
 
 ### Maps
 
